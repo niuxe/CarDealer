@@ -1,0 +1,15 @@
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\bin\Debug\net5.0\CarDealerDataLayer.deps.json
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\bin\Debug\net5.0\CarDealerDataLayer.runtimeconfig.json
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\bin\Debug\net5.0\CarDealerDataLayer.runtimeconfig.dev.json
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\bin\Debug\net5.0\CarDealerDataLayer.dll
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\bin\Debug\net5.0\ref\CarDealerDataLayer.dll
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\bin\Debug\net5.0\CarDealerDataLayer.pdb
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\obj\Debug\net5.0\CarDealerDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\obj\Debug\net5.0\CarDealerDataLayer.AssemblyInfoInputs.cache
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\obj\Debug\net5.0\CarDealerDataLayer.AssemblyInfo.cs
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\obj\Debug\net5.0\CarDealerDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\obj\Debug\net5.0\CarDealerDataLayer.dll
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\obj\Debug\net5.0\ref\CarDealerDataLayer.dll
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\obj\Debug\net5.0\CarDealerDataLayer.pdb
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\obj\Debug\net5.0\CarDealerDataLayer.genruntimeconfig.cache
+C:\Users\krkr\source\repos\Car dealer\CarDealerData\obj\Debug\net5.0\CarDealerDataLayer.csproj.AssemblyReference.cache

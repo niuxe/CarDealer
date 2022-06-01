@@ -1,0 +1,48 @@
+﻿@model Car_dealer.ViewModels.CustomerSubmitForm
+
+@using (Html.BeginForm("GetCustomer", "Customer", FormMethod.Post))
+{
+<table cellpadding="0" cellspacing="0">
+    <tr>
+        <th colspan="2" align="center">Search customer</th>
+    </tr>
+    <tr>
+        <td>Name: </td>
+        <td>@Html.TextBoxFor(m => m.Name)</td>
+    </tr>
+    <tr>
+        <td>Street: </td>
+        <td>
+            @Html.TextBoxFor(m => m.Street)
+        </td>
+    </tr>
+    <tr>
+        <td>Car model: </td>
+        <td>
+            @Html.TextBoxFor(m => m.Model)
+        </td>
+    </tr>
+    <tr>
+        <td>Car make: </td>
+        <td>
+            @Html.TextBoxFor(m => m.Make)
+        </td>
+    </tr>
+    <tr>
+        <td>Car make: </td>
+        <td>
+            @Html.TextBoxFor(m => m.Make)
+        </td>
+    </tr>
+    <tr>
+        <td>Sales person: </td>
+        <td>
+            @Html.TextBoxFor(m => m.SalePersonsName)
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type="submit" value="Submit" /></td>
+    </tr>
+</table>
+}

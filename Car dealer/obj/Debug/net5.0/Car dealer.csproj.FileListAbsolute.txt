@@ -1,0 +1,73 @@
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\appsettings.json
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Car dealer.exe
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Car dealer.deps.json
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Car dealer.runtimeconfig.json
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Car dealer.runtimeconfig.dev.json
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Car dealer.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\ref\Car dealer.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Car dealer.pdb
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Car dealer.Views.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Car dealer.Views.pdb
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\CarDealerDataLayer.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\bin\Debug\net5.0\CarDealerDataLayer.pdb
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.csproj.AssemblyReference.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.AssemblyInfoInputs.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.AssemblyInfo.cs
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.csproj.CoreCompileInputs.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.RazorAssemblyInfo.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.RazorAssemblyInfo.cs
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\staticwebassets\Car dealer.StaticWebAssets.Manifest.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\staticwebassets\Car dealer.StaticWebAssets.xml
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\scopedcss\bundle\Car dealer.styles.css
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.TagHelpers.input.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.TagHelpers.output.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.RazorCoreGenerate.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.RazorTargetAssemblyInfo.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.RazorTargetAssemblyInfo.cs
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.Views.pdb
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.csproj.CopyComplete
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\ref\Car dealer.dll
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.pdb
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Car dealer.genruntimeconfig.cache
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\krkr\source\repos\Car dealer\Car dealer\obj\Debug\net5.0\Razor\Views\Customer\GetCustomer.cshtml.g.cs
